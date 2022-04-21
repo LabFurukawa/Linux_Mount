@@ -22,7 +22,7 @@ sudo apt install cifs-utils
 今回は"samba_dir"というディレクトリを作りマウントする。
 
 ```
-_YOUR_NAME_@_MACHINE_:~$ sudo mkdir samba_dir
+_YOUR_NAME_@_MACHINE_:~$ sudo mkdir /mnt/samba_dir
 ```
 これで"/mnt/samba_dir"が作成されたはずである。
 
